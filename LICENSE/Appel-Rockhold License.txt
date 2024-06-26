@@ -1,0 +1,5 @@
+Portions of this work are just Apple sample code; they are clearly marked in their file headers, and covered by Apple's LICENCE.txt in this repository.
+
+The rest of this:
+
+PrototypeEnhancedTwoColumn © 2024 by Michael Rockhold is licensed under Creative Commons Attribution 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
